@@ -1,0 +1,6 @@
+framework module DogShop {
+  umbrella header "DogShop-umbrella.h"
+
+  export *
+  module * { export * }
+}

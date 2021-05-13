@@ -1,0 +1,16 @@
+PODS:
+  - DogShop (0.1.0)
+
+DEPENDENCIES:
+  - DogShop (from `../`)
+
+EXTERNAL SOURCES:
+  DogShop:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DogShop: cf36c1da32df2e1e1ef8c111f4d97922afb4821c
+
+PODFILE CHECKSUM: bd0677a376ad9ec2a42eb0f88a0f951f72ff97b3
+
+COCOAPODS: 1.8.4

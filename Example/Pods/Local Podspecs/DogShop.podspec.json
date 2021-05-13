@@ -1,0 +1,22 @@
+{
+  "name": "DogShop",
+  "version": "0.1.0",
+  "summary": "A short description of DogShop.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/danjiang/DogShop",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "danjiang": "danjiang5956@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/danjiang/DogShop.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DogShop/Classes/**/*"
+}
