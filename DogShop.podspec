@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
     s.platform = :ios
   s.name             = 'DogShop'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'DogShop For PetsShop.'
 
 # This description is used to generate tags and improve search results.
@@ -33,9 +33,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'DogShop/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'DogShop' => ['DogShop/Assets/*.png']
-  # }
+   s.resource_bundles = {
+     'DogShop' => ['DogShop/Assets/*.{png,jpeg,jpg}']
+   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
